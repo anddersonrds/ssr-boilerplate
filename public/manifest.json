@@ -1,20 +1,20 @@
 {
-  "name": "Won Games - Boilerplate",
-  "short_name": "Won Games",
+  "name": "AnddersonRds - Boilerplate v2.0",
+  "short_name": "Boilerplate v2.0",
   "icons": [
     {
-      "src": "/img/icon-192.png",
+      "src": "/img/sua-logo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/img/icon-512.png",
+      "src": "/img/sua-logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "background_color": "#06092B",
-  "description": "Boilerplate utilizando Typescript, React, NextJS e Styled Components!",
+  "description": "Boilerlate utilizando Typescript, React, NextJS e Styled Components!",
   "display": "fullscreen",
   "start_url": "/",
   "theme_color": "#06092B"

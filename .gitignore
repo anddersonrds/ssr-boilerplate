@@ -5,13 +5,8 @@
 /.pnp
 .pnp.js
 
-#sw stuff
-public/sw.js
-public/workbox-*.js
-
 # testing
 /coverage
-/src/components/**/__snapshots__/
 
 # next.js
 /.next/
